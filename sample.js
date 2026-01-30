@@ -6,3 +6,4 @@ function hello() {
 }
 
 console.log(hello());
+console.log("This is a sample file to generate GitHub activity.");
