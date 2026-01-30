@@ -6,6 +6,3 @@ function hello() {
 }
 
 console.log(hello());
-console.log("This is a sample file to generate GitHub activity.");
-console.log("No application logic is implemented here.");
-console.log("Feel free to modify or delete this file as needed.");
