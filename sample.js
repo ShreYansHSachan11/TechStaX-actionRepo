@@ -7,4 +7,4 @@ function hello() {
 
 console.log(hello());
 console.log("This is a sample file to generate GitHub activity.");          
-console
+console.log("Feel free to modify and commit changes to see more activity!");
